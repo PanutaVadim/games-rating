@@ -1,0 +1,27 @@
+{
+  "name": "week2",
+  "version": "1.0.0",
+  "description": "Система оценивания рандомных игр",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PanutaVadim/Week-2.git"
+  },
+  "author": "VADIMPANUTA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PanutaVadim/Week-2/issues"
+  },
+  "homepage": "https://github.com/PanutaVadim/Week-2#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
